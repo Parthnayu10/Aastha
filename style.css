@@ -174,9 +174,10 @@ body {
 }
 
 /* Music Controls */
+/* Music Controls */
 .music-controls {
   position: fixed;
-  bottom: 20px;
+  bottom: 50px; /* Adjust this value to move the buttons higher or lower */
   width: 100%;
   text-align: center;
 }
@@ -191,6 +192,12 @@ body {
   color: white;
   cursor: pointer;
   transition: background 0.3s;
+}
+
+/* Move buttons up */
+.music-controls #play-btn {
+  position: relative;
+  bottom: 20px; /* Adjust this value to move it higher or lower */
 }
 
 .music-controls button:hover {
