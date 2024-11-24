@@ -1,4 +1,5 @@
 const message = `To my dearest Bestie 💖,
+"Happy Birthday to my incredible friend! 🎉 May your day be filled with joy, laughter, and all the love you deserve. Thank you for being a shining light in my life and for all the amazing memories we’ve created together. Here’s to many more! 💖🎂"
 
 There are friendships that come and go, but ours is like a treasure—rare, beautiful, and everlasting. From the countless video calls where we laughed until our stomachs hurt, to those nights we stayed up just talking about life and everything in between, you've been my rock.
 
